@@ -1,0 +1,30 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#recipetitle {
+    color: whitesmoke;
+    background-color: #2e458f;
+    font-size: 50px;
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 400px;
+}
+#description {
+    color: #4f65af;
+    font-size: 30px;
+    text-align: center;
+}
+#ingredients {
+    color: #2e458f;
+    font-size: 30px;    
+}
+#steps {
+    color: #2e458f;
+    font-size: 30px;    
+}
+li {
+    color: #4f65af;
+    font-size: 20px;
+}
