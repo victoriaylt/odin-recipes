@@ -1,3 +1,14 @@
-#title{
-    color: rgb(68, 83, 158);
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+#title {
+    color:whitesmoke;
+    background-color:#2e458f;
+    font-size: 70px;
+    text-align: center;
+}
+#recipe {
+    color: #4f65af;
+    font-size: 35px;
+    text-align: center;
 }
